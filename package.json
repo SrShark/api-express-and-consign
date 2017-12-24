@@ -1,0 +1,25 @@
+{
+  "name": "Api-Express",
+  "version": "1.0.0",
+  "description": "Api with express and implement consign",
+  "main": "server.js",
+  "babel": {
+    "presets": [
+      "env"
+    ]
+  },
+  "scripts": {
+    "start": "babel-node server.js"
+  },
+  "keywords": [],
+  "author": "@SrShark",
+  "license": "MIT",
+  "dependencies": {
+    "consign": "^0.1.6",
+    "express": "^4.16.2"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.6.1"
+  }
+}

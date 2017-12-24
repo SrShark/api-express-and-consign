@@ -1,5 +1,5 @@
 {
-  "name": "Api-Express",
+  "name": "Api-Express-and-Consign",
   "version": "1.0.0",
   "description": "Simple api with express and implement consign module with ES6",
   "main": "server.js",
